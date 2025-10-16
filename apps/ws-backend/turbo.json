@@ -1,6 +1,6 @@
 {
     "extends": ["//"],
-    "task":{
+    "tasks":{
         "build": {
             "outputs": ["./dist/**"]
         }
